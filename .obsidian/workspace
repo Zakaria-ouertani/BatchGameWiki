@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "ea11c2b7f91c6375",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec4dd2bbf3c574c2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Main page.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fd22b60f389c110",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e689cedf1fab753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fac402c80e7ec6f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ddd5286423d4dc39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 152
+  },
+  "right": {
+    "id": "221a45c71b4004c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "963ce109f44cf192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3908f37b59bb0c19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Main page.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ec4dd2bbf3c574c2",
+  "lastOpenFiles": [
+    "Main page.md",
+    "Board/Board.md",
+    "Card/Card.md",
+    "RPG/RPG.md",
+    "Sandbox/Sandbox.md",
+    "Strategy/Strategy.md",
+    "Side-scrolling/Side-scrolling.md",
+    "Survival/Survival.md",
+    "test.md",
+    "Action/Action.md"
+  ]
+}
